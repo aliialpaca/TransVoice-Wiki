@@ -8,10 +8,7 @@ nav_exclude: true
 ---
 {% include og.html %}
 <details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
+<summary>Table of contents</summary>{: .toc-header }
 1. TOC
 {:toc}
 </details>
