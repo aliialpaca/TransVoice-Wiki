@@ -284,4 +284,41 @@ figure > img {
     margin-left: 0em;
   }
 }
+
+// toc
+
+.toc-header {
+  font-size: 12px !important;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+.toc-header::after {
+  content:' ►';
+  font-size:6px;
+  margin-left:3px;
+  vertical-align:middle;
+  display:inline-block
+}
+details[open] .toc-header::after {
+  content:" ▼"
+}
+
+@media (min-width: 50rem) {
+  .toc-header::after {
+    display:none
+  }
+  .toc-header::before {
+    content:' ►';
+    margin-left:-20px;
+    font-size:8px;
+    width:14px;
+    vertical-align:middle;
+    display:inline-block
+  }
+  details[open] .toc-header::before {
+    content:" ▼"
+  }
+}
+
 //
