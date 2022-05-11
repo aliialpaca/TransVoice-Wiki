@@ -26,7 +26,7 @@ Table of contents
 
 The idea of GVM came as a result of a discovery during a voice workshop led by Hearth (a trans voice teacher), where it was found a student (known for her exceptionally high meta-resonance and light vocal weight) had induced [muscle tension dysphonia](/wiki/pages/other-resources/glossary#mtd) (MTD) of – including, but not limited to – the [stylohyoid muscles](/wiki/pages/other-resources/glossary#stylohyoid)[^recordings]. She had used swallow-and-hold exercises to voice train for several years which led to constant involuntary contraction of such musculature[^memory]. She had ended up using this as there were no better widespread methods developed at the time; it was more effective than the classical voice pedagogy derived methods, and so many casual voice feminisation videos of the time essentially endorsed this sort of training method.
 
-Among other symptoms, she was found to not be able to properly yawn due to constant involuntary contraction of these muscles (which typically lowers meta-resonance due to expansion of muscles in the [oropharynx](/wiki/pages/other-resources/glossary#oropharynx)). <!-- (which ones?) -->
+Among other symptoms, she was found to not be able to properly yawn (which typically lowers meta-resonance due to relaxation of muscles in the [oropharynx](/wiki/pages/other-resources/glossary#oropharynx)<!-- (which ones?) -->) due to constant involuntary contraction of these muscles.
 
 After some discussion amongst some attendees of the workshop, which included Godamoto, he and others wondered if the reason this student had an exceptional voice was due to her long-term use of swallow-and-hold and the resulting muscular constriction of the stylohyoid (and other musculature).
 
@@ -67,7 +67,7 @@ There is also something to be said about the excessive focus on meta-resonance t
 
 ## Sources
 
-[^recordings]: Personal recordings
+[^recordings]: Personal (unshared) recordings
 [^memory]: The (less than perfect) memory of the author
 [^spreadsheet]: Godamoto's Voice Masochism spreadsheet
 [^discord]: Public Discord messages
