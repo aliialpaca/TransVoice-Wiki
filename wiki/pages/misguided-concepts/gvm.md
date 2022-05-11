@@ -9,9 +9,9 @@ nav_order: 1
 # Godamoto Voice Masochism
 {: .no_toc }
 
-**Godamoto Voice Masochism**, or **GVM**, was an experimental voice experiment conducted in January-February 2021 by Godamoto, a person very active in the community during 2020-2021, in order to investigate whether the intentional indiscriminate excess engagement and straining of the musculature surrounding the mouth and throat area (loosely targeting primarily the [extrinsic laryngeal musculature](/wiki/pages/other-resources/glossary#extrinsic)) would bring any increase to [meta-resonance](/wiki/pages/other-resources/glossary#meta-resonance), facilitated via [swallow-and-hold](/wiki/pages/other-resources/list-of-bad-exercises#swallow-and-hold) while looking at the ceiling.
+**Godamoto Voice Masochism**, or **GVM**, was an experimental voice exercise conducted in January-February 2021 by Godamoto, a person very active in the community during 2020-2021, in order to investigate whether the intentional indiscriminate excess engagement and straining of the musculature surrounding the mouth and throat area (loosely targeting primarily the [extrinsic laryngeal musculature](/wiki/pages/other-resources/glossary#extrinsic)) would bring any increase to [meta-resonance](/wiki/pages/other-resources/glossary#meta-resonance), facilitated via [swallow-and-hold](/wiki/pages/other-resources/list-of-bad-exercises#swallow-and-hold) while looking at the ceiling.
 
-The experiment upon completion was considered a complete failure, with only negligible increases in meta-resonance at the cost of intense pain, sweating and strain on the musculature. It is considered a prime (and extreme) example as to why swallow-and-hold and related exercises are ineffective and potentially dangerous. It is **strongly recommended not to attempt this for any reason**.
+The experiment upon completion was considered a complete failure, with only negligible increases in meta-resonance at the cost of intense pain, sweating and strain on the musculature. It is considered a prime (and extreme) example as to why swallow-and-hold and related exercises are ineffective and potentially dangerous. It is **strongly recommended not to attempt it for any reason**.
 
 <details open markdown="block">
 <summary>
@@ -24,7 +24,7 @@ Table of contents
 
 ## Background
 
-The idea of GVM came as a result of a discovery during a voice workshop led by Hearth (a trans voice teacher), where it was found a student (known for her exceptionally high meta-resonance and light vocal weight) had induced [muscle tension dysphonia](/wiki/pages/other-resources/glossary#mtd) (MTD) of – including, but not limited to – the stylohyoid muscles[^recordings]. She had used swallow-and-hold exercises to voice train for several years which lead to constant involuntary contraction of such musculature[^memory]. She had ended up using this as there were no better widespread methods developed at the time; it was more effective than the classical voice pedagogy derived methods, and so many casual voice feminisation videos of the time essentially endorsed this sort of training method.
+The idea of GVM came as a result of a discovery during a voice workshop led by Hearth (a trans voice teacher), where it was found a student (known for her exceptionally high meta-resonance and light vocal weight) had induced [muscle tension dysphonia](/wiki/pages/other-resources/glossary#mtd) (MTD) of – including, but not limited to – the [stylohyoid muscles](/wiki/pages/other-resources/glossary#stylohyoid)[^recordings]. She had used swallow-and-hold exercises to voice train for several years which led to constant involuntary contraction of such musculature[^memory]. She had ended up using this as there were no better widespread methods developed at the time; it was more effective than the classical voice pedagogy derived methods, and so many casual voice feminisation videos of the time essentially endorsed this sort of training method.
 
 Among other symptoms, she was found to not be able to properly yawn due to constant involuntary contraction of these muscles (which typically lowers meta-resonance due to expansion of muscles in the [oropharynx](/wiki/pages/other-resources/glossary#oropharynx)). <!-- (which ones?) -->
 
@@ -61,9 +61,9 @@ Excessive engagement of the extrinsic laryngeal musculature leads a strong risk 
 
 Raising of the larynx is not the only factor that increases meta-resonance. There are other involved factors, such as tongue positioning (aside from the root of the tongue, which is connected to the larynx via the [hyoid bone](/wiki/pages/other-resources/glossary#hyoid-bone) and so inevitably raises when the larynx is raised).
 
-Swallowing is a complex process that involves many different muscles not necessarily linked directly to the elevation of the larynx \[give examples\]. Additionally, the generalised focus on excessive indiscriminate constriction of the laryngeal region inevitably lead to indiscriminate straining of many different extrinsic laryngeal muscles not necessarily needed to attain high meta-resonance.
+Swallowing is a complex process that involves many different muscles not necessarily linked directly to the elevation of the larynx \[give examples\]. Additionally, the generalised focus on excessive indiscriminate constriction of the laryngeal region inevitably led to indiscriminate straining of many different extrinsic laryngeal muscles not necessarily needed to attain high meta-resonance.
 
-There is also something to be said about the excessive focus on meta-resonance that the experiment had, considering that the community and pedagogy in their evolution have as of recent begun to consider the _relationship_ between different aspects of the voice and as parts of a whole, rather than overly isolated aspects of the voice. For example, TransVoiceLesson's more recent pedagogy talks about _overfull_ and _underfull_, which focuses on the relation between size (meta-resonance) and vocal weight.
+There is also something to be said about the excessive focus on meta-resonance that the experiment had, considering that the community and [pedagogy](/wiki/pages/other-resources/glossary#pedagogy) in their evolution have begun to consider the _relationship_ between different aspects of the voice and as parts of a whole, rather than overly isolated aspects of the voice. For example, TransVoiceLesson's more recent pedagogy talks about _overfull_ and _underfull_, which focuses on the relation between size (meta-resonance) and vocal weight.
 
 ## Sources
 
