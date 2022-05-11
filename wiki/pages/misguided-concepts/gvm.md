@@ -4,21 +4,23 @@ title: Godamoto Voice Masochism
 parent: Misguided Concepts
 nav_order: 1
 ---
-{% include og.html %}
-<details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
 
 # Godamoto Voice Masochism
+{: .no_toc }
 
 **Godamoto Voice Masochism**, or **GVM**, was an experimental voice experiment conducted in January-February 2021 by Godamoto, a person very active in the community during 2020-2021, in order to investigate whether the intentional indiscriminate excess engagement and straining of the musculature surrounding the mouth and throat area (loosely targeting primarily the extrinsic laryngeal musculature) would bring any increase to meta-resonance, facilitated via swallow-and-hold while looking at the ceiling.
 
 The experiment upon completion was considered a complete failure, with only negligible increases in meta-resonance at the cost of intense pain, sweating and strain on the musculature. It is considered a prime (and extreme) example as to why swallow-and-hold and related exercises are ineffective and potentially dangerous. It is **strongly recommended not to attempt this for any reason**.
+
+{% include og.html %}
+<details markdown="block">
+<summary>
+Table of contents
+</summary>
+{: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Background
 
