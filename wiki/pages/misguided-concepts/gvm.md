@@ -63,7 +63,7 @@ Raising of the larynx is not the only factor that increases meta-resonance. Ther
 
 Swallowing is a complex process that involves many different muscles not necessarily linked directly to the elevation of the larynx \[give examples\]. Additionally, the generalised focus on excessive indiscriminate constriction of the laryngeal region inevitably led to indiscriminate straining of many different extrinsic laryngeal muscles not necessarily needed to attain high meta-resonance.
 
-There is also something to be said about the excessive focus on meta-resonance that the experiment had, considering that the community and [pedagogy](/wiki/pages/other-resources/glossary#pedagogy) in their evolution have begun to consider the _relationship_ between different aspects of the voice and as parts of a whole, rather than overly isolated aspects of the voice. For example, TransVoiceLesson's more recent pedagogy talks about _overfull_ and _underfull_, which focuses on the relation between size (meta-resonance) and vocal weight.
+There is also something to be said about the excessive focus on meta-resonance that the experiment had, considering that the community and [pedagogy](/wiki/pages/other-resources/pedagogy) in their evolution have begun to consider the _relationship_ between different aspects of the voice and as parts of a whole, rather than overly isolated aspects of the voice. For example, TransVoiceLesson's more recent pedagogy talks about _overfull_ and _underfull_, which focuses on the relation between size (meta-resonance) and vocal weight.
 
 ## Sources
 
