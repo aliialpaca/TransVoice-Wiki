@@ -4,21 +4,23 @@ title: Godamoto Voice Masochism
 parent: Misguided Concepts
 nav_order: 1
 ---
-{% include og.html %}
-<details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
 
 # Godamoto Voice Masochism
+{: .no_toc }
 
 **Godamoto Voice Masochism**, or **GVM**, was an experimental voice experiment conducted in January-February 2021 by Godamoto, a person very active in the community during 2020-2021, in order to investigate whether the intentional indiscriminate excess engagement and straining of the musculature surrounding the mouth and throat area (loosely targeting primarily the extrinsic laryngeal musculature) would bring any increase to meta-resonance, facilitated via swallow-and-hold while looking at the ceiling.
 
 The experiment upon completion was considered a complete failure, with only negligible increases in meta-resonance at the cost of intense pain, sweating and strain on the musculature. It is considered a prime (and extreme) example as to why swallow-and-hold and related exercises are ineffective and potentially dangerous. It is **strongly recommended not to attempt this for any reason**.
+
+{% include og.html %}
+<details open markdown="block">
+<summary>
+Table of contents
+</summary>
+{: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Background
 
@@ -62,6 +64,8 @@ Raising of the larynx is not the only factor that increases meta-resonance. Ther
 Swallowing is a complex process that involves many different muscles not necessarily linked directly to the elevation of the larynx \[give examples\]. Additionally, the generalised focus on excessive indiscriminate constriction of the laryngeal region inevitably lead to indiscriminate straining of many different extrinsic laryngeal muscles not necessarily needed to attain high meta-resonance.
 
 There is also something to be said about the excessive focus on meta-resonance that the experiment had, considering that the community and pedagogy in their evolution have as of recent begun to consider the _relationship_ between different aspects of the voice and as parts of a whole, rather than overly isolated aspects of the voice. For example, TransVoiceLesson's more recent pedagogy talks about _overfull_ and _underfull_, which focuses on the relation between size (meta-resonance) and vocal weight.
+
+## Sources
 
 [^recordings]: Personal recordings
 [^memory]: The (less than perfect) memory of the author
