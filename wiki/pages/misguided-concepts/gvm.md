@@ -14,6 +14,8 @@ nav_order: 1
 {:toc}
 </details>
 
+# Godamoto Voice Masochism
+
 **Godamoto Voice Masochism**, or **GVM**, was an experimental voice experiment conducted in January-February 2021 by Godamoto, a person very active in the community during 2020-2021, in order to investigate whether the intentional indiscriminate excess engagement and straining of the musculature surrounding the mouth and throat area (loosely targeting primarily the extrinsic laryngeal musculature) would bring any increase to meta-resonance, facilitated via swallow-and-hold while looking at the ceiling.
 
 The experiment upon completion was considered a complete failure, with only negligible increases in meta-resonance at the cost of intense pain, sweating and strain on the musculature. It is considered a prime (and extreme) example as to why swallow-and-hold and related exercises are ineffective and potentially dangerous. It is **strongly recommended not to attempt this for any reason**.
@@ -53,7 +55,7 @@ The experiment was considered a complete failure. After the 6th day (after input
 
 ## Additional thoughts
 
-Excessive engagement of the extrinsic laryngeal musculature leads a strong risk of bringing tension to the intrinsic laryngeal musculature, which can, among many other things, easily lead to false fold engagement[^ptj.20130547]. This may be the reason why Godamoto developed an audibly strained voice after a couple of days.
+Excessive engagement of the extrinsic laryngeal musculature leads a strong risk of bringing tension to the intrinsic laryngeal musculature, which can, among many other things, easily lead to false fold engagement[^ptj20130547]. This may be the reason why Godamoto developed an audibly strained voice after a couple of days.
 
 Raising of the larynx is not the only factor that increases meta-resonance. There are other involved factors, such as tongue positioning (aside from the root of the tongue, which is connected to the larynx via the hyoid bone and so inevitably raises when the larynx is raised).
 
@@ -65,7 +67,7 @@ There is also something to be said about the excessive focus on meta-resonance t
 [^memory]: The (less than perfect) memory of the author
 [^spreadsheet]: Godamoto's Voice Masochism spreadsheet
 [^discord]: Public Discord messages
-[^ptj.20130547]:
+[^ptj20130547]:
     https://academic.oup.com/ptj/article/95/1/117/2686503
     
     > Increased tension in the extrinsic muscles causes an improper position of the larynx, which results in tension on the vocal folds and intrinsic muscles. This tension causes difficulty with phonation, swallowing, and breathing.
