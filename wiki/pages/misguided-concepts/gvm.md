@@ -13,7 +13,7 @@ nav_order: 1
 The experiment upon completion was considered a complete failure, with only negligible increases in meta-resonance at the cost of intense pain, sweating and strain on the musculature. It is considered a prime (and extreme) example as to why swallow-and-hold and related exercises are ineffective and potentially dangerous. It is **strongly recommended not to attempt this for any reason**.
 
 {% include og.html %}
-<details markdown="block">
+<details open markdown="block">
 <summary>
 Table of contents
 </summary>
