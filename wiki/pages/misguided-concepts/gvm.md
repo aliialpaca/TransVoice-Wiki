@@ -65,6 +65,8 @@ Swallowing is a complex process that involves many different muscles not necessa
 
 There is also something to be said about the excessive focus on meta-resonance that the experiment had, considering that the community and pedagogy in their evolution have as of recent begun to consider the _relationship_ between different aspects of the voice and as parts of a whole, rather than overly isolated aspects of the voice. For example, TransVoiceLesson's more recent pedagogy talks about _overfull_ and _underfull_, which focuses on the relation between size (meta-resonance) and vocal weight.
 
+## Sources
+
 [^recordings]: Personal recordings
 [^memory]: The (less than perfect) memory of the author
 [^spreadsheet]: Godamoto's Voice Masochism spreadsheet
