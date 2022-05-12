@@ -17,7 +17,7 @@ nav_exclude: true
 # Acoustic Resonance Details
 ## Standing Waves
 
-{% include image.html file="/img/Waventerference.gif" alt="standing wave" max-width="300px"
+{% include image.html file="../../../img/Waventerference.gif" alt="standing wave" max-width="300px"
 caption="The blue wave travels leftward while the green wave travels rightward, their interference creating the standing red wave"
 class="float-right" %}
 
