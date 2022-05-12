@@ -15,7 +15,7 @@ nav_order: 1
 </details>
 # FVF
 
-{% include image.html file="/img/fvf-without-with.jpg" alt="fvf comparison" max-width="300px"
+{% include image.html file="../../../img/fvf-without-with.jpg" alt="fvf comparison" max-width="300px"
 caption="No FVF constriction (left) compared to heavily FVF constricted (right)"
 class="float-right" %}
 
