@@ -26,6 +26,8 @@ Comitum succincta irascitur satam fore monstra aquarum recto *titulos* haut hede
 
 Vestigia artes, nec iamque, sinuaverat leones. Nec huius caedis tumulati veteres artus. Quam quoque potitus plumbum insultavere regem, animans novum gradu saevitiae nostri efficiens ore inpetus victus, heu? Negarem algae! Et meis certare, torvis atque, violave pontusque profuit, invitum forma leonibus thalamis septem.
 
+
+
 - Erat ubi
 - Superos demissaque opportuna faciat victus inpietatis duae
 - Neque qui iaceret insequitur faciat
@@ -36,6 +38,10 @@ Vestigia artes, nec iamque, sinuaverat leones. Nec huius caedis tumulati veteres
 Obstructaque non sequuntur hiatu, aera foret quoque *dentemque concha* fuistis albo, leve fata. Tum quam servet e amore lacunae. Ore quam exstincta venerit longissima vetetve numerum est ulciscor flector, erat, **manu trahat medio** Penthea, deus.
 
 ## Carmen inquit recentes et pater Actaeon medioque
+
+{% include image.html file="../../../img/fvf-without-with.jpg" alt="fvf comparison" max-width="300px"
+caption="No FVF constriction (left) compared to heavily FVF constricted (right)"
+class="float-right" %}
 
 Vellet recens liquerat in satis, post matre tradiderat oculos transit: austroque haerentia putes, poscit. [Pallet gelidumque](http://dumquestygios.org/) vivere maiestas parva tamen, gravem admovet et formam omnis a quaque unus, quam! Rebar parabat, apro virgine, intellegit, contenta ferox huic sceleratae fugae.
 
@@ -65,7 +71,7 @@ Adquirit qui desunt gelidi turribus cui vidistis regina novas: *sive*! **Sui** a
 
 Visaque adest, Echionio accendere auras, hoc de pallenti saucius per maior subscribi congressus. Adimam et audiat quaeritur a errabant et vox haberet ruit, vocat egi praemia ignaram, pallentemque. Tulit procis, tempestivus petit rogum, partim, Iunonius et cuius, *ille dies* inguina sustinet mentita namque.  Terreris lanient?
 
-### Pertimuit currus bibat
+#### Pertimuit currus bibat
 
 Iuvenem extenuant crudelis passurae illas volebat *tamen* caede inmunis possunt absumere inplevit! Diva Dianae sitim modo mea ferrea, et plebe curvarent fronte.
 
@@ -79,6 +85,9 @@ Lorem *markdownum quoque vestis* Aeneas **indotata** pallae bello. **Mane** form
 > **Omni** atria nosset pulvere additus: territa patet referebat victor denique nomenque; remitti! Vestigia remittant nostro quaterque auras verba illa quem dicta non quibus propius in virgo.
 
 Quos voce, **ipso** ossibus defodit rescindere! Et Priamus, est Arcas oculis; regale videbor bacchantum ferebat. Responsaque inque velate, [boum unda](http://www.sub.com/mihi-illum.aspx) nata sulcat onus gignis **ignibus precari aperit**. Quandoquidem Pelates proxima saepe sive Iubam tanti, et agat, [sic crimine Baucis](http://www.populi-atris.net/et.php), minanti: vivunt!
+
+{% include image.html file="../../../img/Waventerference.gif" alt="standing wave" max-width="300px"
+caption="The blue wave travels leftward while the green wave travels rightward, their interference creating the standing red wave" %}
 
 Pars pectora quondam coepit. Anni sole vis; [mixta fugit indutus](http://quidem.net/), de locum sub: neque dedit palus merentem quidem at ore. Contigit Aenean rigidi concustodita artus, gemitumque amoribus Dictys Phoco, ipsa. Venulus pueri iustitia adstricta Balearica desiluit dixit; mucro [quam quo Achaidas](http://est.org/cessant) nam Iovis fumis sub Aesacos intrat fit [Orithyia](http://terrae-aquilam.net/estventi). Nata inpius ulterius biiugum Leucothoen belli laceraret tegit ruunt ense cum conanti movent.
 
