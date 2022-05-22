@@ -10,7 +10,7 @@ has_children: false
 
 ## Melioris lumine
 
-Lorem {%- include glossary.html term="markdownum" -%} di rapto: lusus ipse ora, nata dea primusque fugit, iuga! Dis nec illis vocem, iuvat; parentem, dant *feri quem suspicor* et est. Arbore et vires **hanc in Eurystheus** nomen, **ibi** ut vel creverunt et sonant quam.
+Lorem {% include glossary.html term="twang" -%} markdownum di rapto: lusus ipse ora, nata dea primusque fugit, iuga! Dis nec illis vocem, iuvat; parentem, dant *feri quem suspicor* et est. Arbore et vires **hanc in Eurystheus** nomen, **ibi** ut vel creverunt et sonant quam.
 
 1. Et quae nepotibus eripitur crimen admonitu longaeva
 2. Ad fulvis te iuro Tritonidos Gaudia Hersilien
