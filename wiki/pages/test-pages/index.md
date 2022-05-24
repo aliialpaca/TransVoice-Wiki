@@ -4,8 +4,6 @@ title: Test Page
 nav_order: 80
 has_children: false
 ---
-{% include og.html %}
-
 # Ilioneus correptus
 
 ## Melioris lumine
