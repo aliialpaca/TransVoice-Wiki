@@ -1,12 +1,10 @@
 ---
-layout: wiki
+layout: page
 title: Front Page
 nav_order: 1
 has_children: false
 nav_exclude: true
 ---
-abc
-{% include global.html %}
 
 # Voice Resource Repository
 This project was started by Sumi and Emma. This is an open resource so if you have additions, suggestions or criticisms they are welcomed.
